@@ -1,0 +1,11 @@
+$primary: blue;
+$secondary: red;
+
+h1 {
+    color: $primary;
+
+& span {
+    
+    color: $secondary;
+}
+}
